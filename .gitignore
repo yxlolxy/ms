@@ -1,0 +1,11 @@
+# dep
+node_modules
+
+# build
+dist
+
+# log
+*.log
+
+#ide
+.vscode

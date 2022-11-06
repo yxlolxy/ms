@@ -1,0 +1,6 @@
+# /node_modules/* in the project root are ignored by default
+.eslintrc.js
+.prettierrc.js
+
+# build
+dist
